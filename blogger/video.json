@@ -1,0 +1,463 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "66d624cfec1d05b9b5393069",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "date": "2024-09-03T00:00:00.000Z",
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "startTime": "2024-09-03T11:00:00.000Z",
+            "endTime": "2024-09-03T12:54:43.544Z",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "topic": "How do Organisms Reproduce ? 09 : Reproductive Health",
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "lectureType": "LIVE",
+            "whiteboardType": "NOTE3",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "timeline": [],
+            "conversationId": "66d624cfce78599f20cceef0",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/9c5880c6-9a7a-4386-8e3b-49e02652c986/master.mpd",
+            "videoDetails": {
+                "_id": "66d7137641b1a62fc661580d",
+                "id": "66d7137641b1a62fc661580d",
+                "name": "How do Organisms Reproduce ? 09 : Reproductive Health",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f868d06-299a-4714-b093-0eb9818655d1.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/9c5880c6-9a7a-4386-8e3b-49e02652c986/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:54:00",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-09-03T13:47:34.685Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66c382294d1302486b13218d",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "date": "2024-08-20T00:00:00.000Z",
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "startTime": "2024-08-20T11:10:00.000Z",
+            "endTime": "2024-08-20T12:51:16.180Z",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "topic": "How do Organisms Reproduce ? 08 : Sexual Reproduction in Human Beings (Part - 02)  || Rescheduled @04:40 PM",
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "lectureType": "LIVE",
+            "whiteboardType": "NOTE3",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "timeline": [],
+            "conversationId": "66c382293be3c14ec4908212",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/e4719692-42dd-46a8-818f-37e96ae96530/master.mpd",
+            "videoDetails": {
+                "_id": "66c49d9a8a65bca07e98a745",
+                "id": "66c49d9a8a65bca07e98a745",
+                "name": "How do Organisms Reproduce ? 08 : Sexual Reproduction in Human Beings (Part - 02) || Quiz Will Be Provided Soon  || Rescheduled @04:40 PM",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f6ed5acd-95d3-434f-8520-598c2b0336b6.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/e4719692-42dd-46a8-818f-37e96ae96530/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:39:36",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-08-20T13:43:54.644Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66bb4e431518de118335988a",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "date": "2024-08-13T00:00:00.000Z",
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "startTime": "2024-08-13T13:00:00.000Z",
+            "endTime": "2024-08-13T15:01:46.905Z",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "topic": "How do Organisms Reproduce ? 07 : Sexual Reproduction in Human Beings",
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "lectureType": "LIVE",
+            "whiteboardType": "NOTE3",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "timeline": [],
+            "conversationId": "66bb4e4388a012a97923abd1",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/19e9276d-46ca-494b-bf99-c48efbe118da/master.mpd",
+            "videoDetails": {
+                "_id": "66bb85683145b5cbb71ba36c",
+                "id": "66bb85683145b5cbb71ba36c",
+                "name": "How do Organisms Reproduce ? 07 : Sexual Reproduction in Human Beings || Quiz Will Be Provided Soon",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0147f6b7-57dc-4c29-ad61-b366e253d544.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/19e9276d-46ca-494b-bf99-c48efbe118da/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:59:24",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-08-13T16:10:16.272Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66b119b9b8b434326892f8e1",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "date": "2024-08-06T00:00:00.000Z",
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "startTime": "2024-08-06T11:10:00.000Z",
+            "endTime": "2024-08-06T12:42:45.375Z",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "topic": "How do Organisms Reproduce ? 06 : Sexual Reproduction in Flowering Plants (Part -  02) || No DHA || Rescheduled @04:40 PM",
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "lectureType": "LIVE",
+            "whiteboardType": "NOTE3",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "timeline": [],
+            "conversationId": "66b119b99ca825a77e905ce5",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/b2e191e1-5a6c-40b2-8777-3eb930ddb984/master.mpd",
+            "videoDetails": {
+                "_id": "66b225b9a0d50f54c7a637b1",
+                "id": "66b225b9a0d50f54c7a637b1",
+                "name": "How do Organisms Reproduce ? 06 : Sexual Reproduction in Human Beings || No DHA || Rescheduled @04:40 PM",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fad9acc7-9479-49e8-9949-950ec7cf7d1c.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/b2e191e1-5a6c-40b2-8777-3eb930ddb984/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:31:40",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-08-06T13:31:37.170Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66a7d77e0d3ca24fe8e329b7",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "date": "2024-07-30T00:00:00.000Z",
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "startTime": "2024-07-30T11:00:00.000Z",
+            "endTime": "2024-07-30T12:40:00.000Z",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "topic": "How do Organisms Reproduce ? 05 : Sexual Reproduction in Flowering Plants",
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "lectureType": "LIVE",
+            "whiteboardType": "NOTE3",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "timeline": [],
+            "conversationId": "66a7d77eb795bfcc1ba23975",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/c31cfea3-6da0-4229-b9f7-90f47574cb9a/master.mpd",
+            "videoDetails": {
+                "_id": "66a8ed9b1aa11a00186d691a",
+                "id": "66a8ed9b1aa11a00186d691a",
+                "name": "How do Organisms Reproduce ? 05 : Sexual Reproduction in Flowering Plants",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e2f7b8a2-0caf-4ef4-a3b9-4823d2a19f9b.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/c31cfea3-6da0-4229-b9f7-90f47574cb9a/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
+                "duration": "01:38:12",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-07-30T13:41:47.595Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66a35c617d4aa0878ca5b7e1",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "date": "2024-07-26T00:00:00.000Z",
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "startTime": "2024-07-26T11:00:00.000Z",
+            "endTime": "2024-07-26T12:45:00.000Z",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "topic": "How do Organisms Reproduce ? 04 : Vegetative Propagation || Basics of Sexual Reproduction || No DHA ",
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "lectureType": "LIVE",
+            "whiteboardType": "NOTE3",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "timeline": [],
+            "conversationId": "66a35c61b89d521313fad45b",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/98751a1f-65e5-4084-8470-b174b2fb8ecb/master.mpd",
+            "videoDetails": {
+                "_id": "66a3a700ab552800189013b6",
+                "id": "66a3a700ab552800189013b6",
+                "name": "How do Organisms Reproduce ? 04 : Vegetative Propagation || Basics of Sexual Reproduction || No DHA",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eb419fd3-92ac-4d46-aee7-55487d71dd8f.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/98751a1f-65e5-4084-8470-b174b2fb8ecb/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
+                "duration": "01:44:36",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-07-26T13:39:12.023Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "669ea2b75a67ba6b7fcbd8e7",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "date": "2024-07-23T00:00:00.000Z",
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "startTime": "2024-07-23T11:00:00.000Z",
+            "endTime": "2024-07-23T12:42:00.000Z",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "topic": "How do Organisms Reproduce ? 03 : Types of Asexual Reproduction (Part 02)",
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "lectureType": "LIVE",
+            "whiteboardType": "NOTE3",
+            "timeline": [],
+            "conversationId": "669ea2b7fbb7152e581e8cb3",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/f4678ce2-5ac1-4328-8a17-683083a21ac2/master.mpd",
+            "videoDetails": {
+                "_id": "669fb379f3d57900182e7d2a",
+                "id": "669fb379f3d57900182e7d2a",
+                "name": "How do Organisms Reproduce ? 03 : Types of Asexual Reproduction (Part 02)",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e8095ac3-9220-4cc2-b482-9e87c7c550be.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/f4678ce2-5ac1-4328-8a17-683083a21ac2/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
+                "duration": "01:42:12",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-07-23T13:43:21.271Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6695ec7c8cc3b70018b6e8e3",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "How do Organisms Reproduce ? 02 : Types of Asexual Reproduction (Part 01) || Reschedule @ 04:40 PM",
+            "date": "2024-07-16T00:00:00.000Z",
+            "startTime": "2024-07-16T11:10:42.000Z",
+            "endTime": "2024-07-16T12:50:48.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "6695ec7c2f9308d0e7e6540e",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/8db04a63-42d8-434b-ab4d-c059319dc2d9/master.mpd",
+            "videoDetails": {
+                "_id": "66967b08a4484a00185ebab4",
+                "id": "66967b08a4484a00185ebab4",
+                "name": "How do Organisms Reproduce ? 02 : Types of Asexual Reproduction (Part 01) || Reschedule @ 04:40 PM",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fe9fb64e-e4f0-442e-8bf6-d01f9b5fe88d.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/8db04a63-42d8-434b-ab4d-c059319dc2d9/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
+                "duration": "01:38:40",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-07-16T13:52:08.352Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66862f6cc1ff940018be7124",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66862f3d3b1484d475688a46",
+                    "name": "How do Organisms Reproduce ?"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "How do Organisms Reproduce ? 01 : Introduction to Reproduction || Variations",
+            "date": "2024-07-04T00:00:00.000Z",
+            "startTime": "2024-07-04T13:00:54.000Z",
+            "endTime": "2024-07-04T14:44:01.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "66862f6cdf70eabfc6d281c4",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/b6d6ad56-8df2-407f-823f-29fbd872fa69/master.mpd",
+            "videoDetails": {
+                "_id": "6686c4a3678e4700188c54da",
+                "id": "6686c4a3678e4700188c54da",
+                "name": "How do Organisms Reproduce ? 01 : Introduction to Reproduction and Variations || DHA and Quiz Will Be Provided Soon",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/08a1bf5a-18d6-452a-a50d-72d344e36790.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/b6d6ad56-8df2-407f-823f-29fbd872fa69/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
+                "duration": "01:42:40",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-07-04T15:49:55.450Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "dataFrom": "MONGOOSE_UPGRADE",
+    "paginate": {
+        "limit": 20,
+        "totalCount": null
+    }
+}

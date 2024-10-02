@@ -1,0 +1,289 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "66d624cfec1d05b9b5393069",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-09-03T00:00:00.000Z",
+            "startTime": "2024-09-03T11:00:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66d70a4ec29c10c0638fdb4f",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 09 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "66d70a43a83a572e5dd8ff6a",
+                            "name": "How Do Organisms Reproduce_09_Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/1a5bd82c-7764-4b80-9e1a-88a700e41b44.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66c382294d1302486b13218d",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-08-20T00:00:00.000Z",
+            "startTime": "2024-08-20T11:10:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66c496833c2d0e334fe5cebd",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 08 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "66c49680d78c3b108bec9c87",
+                            "name": "How do Organisms Reproduce_08_Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/b622dfe2-0e5b-4757-a482-ff3d32d6b9da.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66bb4e431518de118335988a",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-08-13T00:00:00.000Z",
+            "startTime": "2024-08-13T13:00:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66bb78775655dcda60058ca6",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 07 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "66bb786efdda77b280fee4f6",
+                            "name": "How Do Organisms Reproduce 07_Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/2ba1ead0-ab44-4148-8492-288181e3049f.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66b119b9b8b434326892f8e1",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-08-06T00:00:00.000Z",
+            "startTime": "2024-08-06T11:10:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66b21d4d1eb2d66655c92b4c",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 06 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "66b255cfc8bfb099867c920a",
+                            "name": "How do Organisms Reproduce_06 _Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/711a1c19-58be-46f1-a77a-2056164ca951.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66a7d77e0d3ca24fe8e329b7",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-07-30T00:00:00.000Z",
+            "startTime": "2024-07-30T11:00:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66a8e13e0b3fe59de51608b9",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 05 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "66a8e139c28174a304d788cb",
+                            "name": "How do Organisms Reproduce_05_Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/f6d7064c-26e9-45ec-8546-91f5714ae9aa.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66a35c617d4aa0878ca5b7e1",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-07-26T00:00:00.000Z",
+            "startTime": "2024-07-26T11:00:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66a39d911e78511605d00b78",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 04 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "66a39d8e3d9663a5326810c4",
+                            "name": "How do Organisms Reproduce 04_Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/bc4d708a-9088-4ada-88f0-bb4a237c9777.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "669ea2b75a67ba6b7fcbd8e7",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-07-23T00:00:00.000Z",
+            "startTime": "2024-07-23T11:00:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "669fa789a70d0842246aa279",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 03 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "669fa7763d9663a532678f02",
+                            "name": "How do Organisms Reproduce 03_Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/62f624b2-ef2c-40b7-99e9-1efd49bc03c4.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6695ec7c8cc3b70018b6e8e3",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-07-16T00:00:00.000Z",
+            "startTime": "2024-07-16T11:10:42.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66966ebbd98af761757a1b56",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 02 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6696869a79af5395f8a6bb94",
+                            "name": "How do Organisms Reproduce 02 - Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/6c3874ff-ccbe-46ce-9253-fbbd67c5c90a.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66862f6cc1ff940018be7124",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-07-04T00:00:00.000Z",
+            "startTime": "2024-07-04T13:00:54.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6686b885073bc5c548213f6e",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? 01 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6686b8819768870787a02066",
+                            "name": "How do Organisms Reproduce_01_Class Notes.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/2d7990fc-14a2-4c5c-960b-1048f2d6e268.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "dataFrom": "MONGOOSE_UPGRADE",
+    "paginate": {
+        "limit": 20,
+        "totalCount": null
+    }
+}

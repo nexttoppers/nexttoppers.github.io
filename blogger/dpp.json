@@ -1,0 +1,227 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "66d68b893996d04a544b9311",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-09-03T00:00:00.000Z",
+            "startTime": "2024-09-03T11:00:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "66cd7e9855b93ea589d212ce",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? : DHA 07 (of Lecture 09) || Udaan 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66cd7e95a43548588ba30fac",
+                            "name": "How do Organisms Reproduce_DHA 07.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/b67fa527-9da9-4ba4-a0dc-da56168ad562.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66c465c772418223057e0133",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-08-20T00:00:00.000Z",
+            "startTime": "2024-08-20T11:10:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "66c4658dbfd6d818ad21a845",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? : DHA 06 (of Lecture 08) || Udaan 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66c46589ea34f2d9cae39c79",
+                            "name": "How do Organisms Reproduce_DHA 06.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/7d0927c2-5867-4f11-b657-aff954e795ab.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66bb4e8f911423f4e9c9a2b3",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-08-13T00:00:00.000Z",
+            "startTime": "2024-08-13T13:00:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "66bb35c8b44b083ad132450b",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? : DHA 05 (of Lecture 07) || Udaan 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66bb4e60c4fa0ed2e756b9c4",
+                            "name": "How do Organisms Reproduce_ DHA 05.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/3d9d3ee2-7271-45c0-b7a9-70100414d7be.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66a8aed068242bb1c11a4d4c",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-07-30T00:00:00.000Z",
+            "startTime": "2024-07-30T11:00:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "66a8abcbc302fd2f9c9b4809",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? : DHA 04 (of Lecture 05) || Udaan 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66a8b8a23ca0eaebacc6f813",
+                            "name": "How do Organisms Reproduce_DHA 04.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/2fcaa716-f0aa-4f03-ae01-a080d711f25b.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "669f83e5ef5799f5df35d792",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-07-23T00:00:00.000Z",
+            "startTime": "2024-07-23T11:00:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "669f83b7f17445b42868655f",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? : DHA 03 || Udaan 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "669f83b43d9663a5326784fa",
+                            "name": "How do Organisms Reproduce_DHA 03.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/74dc32de-2576-4bde-b729-70f46197a6ae.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66962796b50a4e0018e74ace",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-07-16T00:00:00.000Z",
+            "startTime": "2024-07-16T11:10:50.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "66962768d7c820141889c36e",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ? : DHA 02 || Udaan 2025",
+                    "note": "DHA / DHA Discussion Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6696276679af5395f8a6a672",
+                            "name": "How do Organisms Reproduce -  DHA 02 .pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/1c9819ed-01bc-4a38-819a-9e37e1f6240c.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6687a5963dea080018d4c5f5",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-07-04T00:00:00.000Z",
+            "startTime": "2024-07-04T13:00:13.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6687a4e7d5121042bc37ffd5",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "How do Organisms Reproduce ?  : DHA 01 || Udaan 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "6687a4d97b1358a4a01f3e48",
+                            "name": "How do Organisms Reproduce_ DHA 01.pdf",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/81cbedd3-8cc2-48ad-9c2b-41b15a430d7e.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f"
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "dataFrom": "MONGOOSE_UPGRADE",
+    "paginate": {
+        "limit": 20,
+        "totalCount": null
+    }
+}
