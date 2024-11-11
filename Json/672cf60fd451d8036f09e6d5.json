@@ -1,6 +1,61 @@
+
 {
     "videos": [
         {
+            "_id": "6730e49185859033247fd002",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-11T00:00:00.000Z",
+            "startTime": "2024-11-11T11:00:00.000Z",
+            "isDPPNotes": false,
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true,
+            "isChatEnabled": false,
+            "isCommentDisabled": false,
+            "isDPPVideos": false,
+            "isDoubtEnabled": true,
+            "isPathshala": false,
+            "restrictedSchedule": false,
+            "endTime": "2024-11-11T12:23:12.586Z",
+            "restrictedTime": 0,
+            "tags": [
+                {
+                    "_id": "672cf60fd451d8036f09e6d5",
+                    "name": "Minerals and Energy Resources (Geography)"
+                }
+            ],
+            "teachers": [
+                "628f242e030f8500127b5566"
+            ],
+            "timeline": [],
+            "topic": "Geography - Minerals and Energy Resources 02 : Ferrous Minerals",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/94801e7c-8a8a-4f10-ae8b-ebdd1b7c2aad/master.mpd",
+            "urlType": "penpencilvdo",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "lectureType": "RECORDED",
+            "whiteboardType": "NOTE3",
+            "videoDetails": {
+                "_id": "6731f75556cad7a1ade85649",
+                "id": "6731f75556cad7a1ade85649",
+                "name": "Geography - Minerals and Energy Resources 02 : Ferrous Minerals",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/44702061-63e5-49cc-aa55-f7a882af8b0c.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/94801e7c-8a8a-4f10-ae8b-ebdd1b7c2aad/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:21:14",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-11-11T12:23:49.239Z",
+                "drmProtected": false,
+                "findKey": "6730e49185859033247fd002"
+            },
+            "conversationId": "6730e491d1af173d1faac08c",
+            "roomId": null,
+            "isLocked": false
+        },   {
             "_id": "672cf6776617c30451bd8e79",
             "isFree": false,
             "status": "COMPLETED",
@@ -58,6 +113,39 @@
     ],
     "notes": [
         {
+            "_id": "6730e49185859033247fd002",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-11T00:00:00.000Z",
+            "startTime": "2024-11-11T11:00:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6731f9371dbf65f72d202545",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Geography - Minerals and Energy Resources 02 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6731f934d9ae9d19ebc78160",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/30e5e7e6-5f9a-4f64-b997-193440b6407d.pdf",
+                            "name": "Minerals and Energy Resources 02_Class Notes.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f80798d510018030f84",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        }, {
             "_id": "672cf6776617c30451bd8e79",
             "isFree": false,
             "status": "COMPLETED",
