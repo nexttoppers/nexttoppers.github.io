@@ -1,0 +1,40 @@
+{
+"videos":[],
+    "notes": [
+        {
+            "_id": "672e07c527f5f04a24653d20",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-11-08T00:00:00.000Z",
+            "startTime": "2024-11-08T13:00:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "672e0787d036fd4a8e4d7e6c",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Practice Sheet 01 || Udaan 2025",
+                    "note": "Practice Sheet",
+                    "attachmentIds": [
+                        {
+                            "_id": "672e07837d30bd8dd63d15f0",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/799bbd57-cb46-413c-b1d4-ddf9e8bbfcbe.pdf",
+                            "name": "Practice Sheet  01.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f4c050f540018c7706d",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+  "DppNotes":[],"DppVideos":[]
+}
