@@ -1,0 +1,257 @@
+{
+   
+    "videos": [
+        {
+            "_id": "6733a25092a42bc4d81c37d4",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-13T00:00:00.000Z",
+            "startTime": "2024-11-13T13:15:00.000Z",
+            "isDPPNotes": false,
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true,
+            "isChatEnabled": false,
+            "isCommentDisabled": false,
+            "isDPPVideos": false,
+            "isDoubtEnabled": true,
+            "isPathshala": false,
+            "restrictedSchedule": false,
+            "endTime": "2024-11-13T15:14:07.572Z",
+            "restrictedTime": 0,
+            "tags": [
+                {
+                    "_id": "67330d3062c0ddefb9d1d078",
+                    "name": "Our Environment"
+                }
+            ],
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "timeline": [],
+            "topic": "Our Environment 02 : Food Chain || Food Webs || Ozone Depletion || Waste Management || Rescheduled @06:45 PM",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/0da60edc-bf64-4789-84e4-a0415e221bac/master.mpd",
+            "urlType": "penpencilvdo",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "lectureType": "RECORDED",
+            "whiteboardType": "NOTE3",
+            "videoDetails": {
+                "_id": "6734c25004baa498f26fb41c",
+                "id": "6734c25004baa498f26fb41c",
+                "name": "Our Environment 02 : Food Chain || Food Webs || Ozone Depletion || Waste Management || Rescheduled @06:45 PM",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cb4d8e1b-634d-4ef9-a1e2-1ee0f965c7ef.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/0da60edc-bf64-4789-84e4-a0415e221bac/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:57:44",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-11-13T15:14:24.876Z",
+                "drmProtected": false,
+                "findKey": "6733a25092a42bc4d81c37d4"
+            },
+            "conversationId": "6733a2509f2224d953a776f2",
+            "roomId": null,
+            "isLocked": false
+        },
+        {
+            "_id": "67330d578d70b2317b4fb3ba",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-12T00:00:00.000Z",
+            "startTime": "2024-11-12T11:15:00.000Z",
+            "isDPPNotes": false,
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true,
+            "isChatEnabled": false,
+            "isCommentDisabled": false,
+            "isDPPVideos": false,
+            "isDoubtEnabled": true,
+            "isPathshala": false,
+            "restrictedSchedule": false,
+            "endTime": "2024-11-12T12:50:55.792Z",
+            "restrictedTime": 0,
+            "tags": [
+                {
+                    "_id": "67330d3062c0ddefb9d1d078",
+                    "name": "Our Environment"
+                }
+            ],
+            "teachers": [
+                "60ae2a26ca2f69001802f402"
+            ],
+            "timeline": [],
+            "topic": "Our Environment 01 : Introduction to Ecosystem || Components and Types of Ecosystem || Rescheduled @04:45 PM",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/a668bfc3-efe3-4960-959c-026bee4ab64a/master.mpd",
+            "urlType": "penpencilvdo",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "lectureType": "RECORDED",
+            "whiteboardType": "NOTE3",
+            "videoDetails": {
+                "_id": "67334f3ab12b54936aeb4237",
+                "id": "67334f3ab12b54936aeb4237",
+                "name": "Our Environment 01 : Introduction to Ecosystem || Components and Types of Ecosystem || Rescheduled @04:45 PM",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d17fda7a-e052-478b-902a-e13b5e7b38cf.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/a668bfc3-efe3-4960-959c-026bee4ab64a/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:34:32",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-11-12T12:51:06.934Z",
+                "drmProtected": false,
+                "findKey": "67330d578d70b2317b4fb3ba"
+            },
+            "conversationId": "67330d573e012f54f6cdda31",
+            "roomId": null,
+            "isLocked": false
+        }
+    ],
+
+    "notes": [
+        {
+            "_id": "6733a25092a42bc4d81c37d4",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-13T00:00:00.000Z",
+            "startTime": "2024-11-13T13:15:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6734c402162b478db35bec71",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Our Environment 02 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6734c3ffeceb295ba335a8ed",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/63c53e43-cd54-4ef2-b418-2138fc977fe4.pdf",
+                            "name": "Our Environment 02 Class Notes.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "67330d578d70b2317b4fb3ba",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-12T00:00:00.000Z",
+            "startTime": "2024-11-12T11:15:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "67335993ef55b9ced5462da0",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Our Environment 01 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "673359914c550882ee2c4f30",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/c84c1728-03cf-4ab9-a797-c079ae6a1ab9.pdf",
+                            "name": "Our Environment 01 CLass Notes.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "DppNotes": [
+        {
+            "_id": "6733ac960c02d7f8dc20e465",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-11-13T00:00:00.000Z",
+            "startTime": "2024-11-13T13:15:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6733a9b4e4991c0a9e005f0d",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Our Environment : DHA 02 || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6733a9b0944edd1fa76d7dd4",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/8ad12505-bdb9-49e4-949c-064e727d5bb4.pdf",
+                            "name": "Our Environment DHA 02.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "67331876c823c3dbb1a1373a",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-11-12T00:00:00.000Z",
+            "startTime": "2024-11-12T11:15:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6733184262c0ddefb9d29da3",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Our Environment : DHA 01 || Udaan 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "6733183e4c550882ee2c3d2c",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/71094935-39cd-4449-b697-7150e57a640d.pdf",
+                            "name": "Our Environment DHA 01.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f2c8c41800018a5798f",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+  
+    "DppVideos":[]}
