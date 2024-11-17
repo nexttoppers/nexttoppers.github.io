@@ -2,6 +2,115 @@
    
     "videos": [
         {
+            "_id": "6738174eb98ed8d90a18d4e1",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-16T00:00:00.000Z",
+            "startTime": "2024-11-16T13:10:00.000Z",
+            "isDPPNotes": false,
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true,
+            "isChatEnabled": false,
+            "isCommentDisabled": false,
+            "isDPPVideos": false,
+            "isDoubtEnabled": true,
+            "isPathshala": false,
+            "restrictedSchedule": false,
+            "endTime": "2024-11-16T14:47:30.617Z",
+            "restrictedTime": 0,
+            "tags": [
+                {
+                    "_id": "6730e4d24adfa48b8591d69e",
+                    "name": "Area Related to Circles"
+                }
+            ],
+            "teachers": [
+                "61d95dfad4a765008074c1c1"
+            ],
+            "timeline": [],
+            "topic": "Area Related to Circles 03 : Segment of a Circle || Rescheduled @06:40 PM",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/ccfcc00e-a2c8-49b8-95a3-bb762d713c33/master.mpd",
+            "urlType": "penpencilvdo",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "lectureType": "RECORDED",
+            "whiteboardType": "NOTE3",
+            "videoDetails": {
+                "_id": "6738b08aeb8c7a417f68ef25",
+                "id": "6738b08aeb8c7a417f68ef25",
+                "name": "Area Related to Circles 03 : Segment of a Circle || Quiz Will Be Provided Soon || Rescheduled @06:40 PM",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0378ccf9-57ab-42ed-ae52-904a40a84da3.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/ccfcc00e-a2c8-49b8-95a3-bb762d713c33/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:36:48",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-11-16T14:47:38.786Z",
+                "drmProtected": false,
+                "findKey": "6738174eb98ed8d90a18d4e1"
+            },
+            "conversationId": "6738174e4e97f3f21a9e796b",
+            "roomId": null,
+            "isLocked": false
+        },
+        {
+            "_id": "673632e7ca031409c01aa208",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-15T00:00:00.000Z",
+            "startTime": "2024-11-15T13:15:00.000Z",
+            "isDPPNotes": false,
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true,
+            "isChatEnabled": true,
+            "isCommentDisabled": false,
+            "isDPPVideos": false,
+            "isDoubtEnabled": true,
+            "isPathshala": false,
+            "restrictedSchedule": false,
+            "endTime": "2024-11-15T14:55:57.648Z",
+            "restrictedTime": 0,
+            "tags": [
+                {
+                    "_id": "6730e4d24adfa48b8591d69e",
+                    "name": "Area Related to Circles"
+                }
+            ],
+            "teachers": [
+                "61d95dfad4a765008074c1c1"
+            ],
+            "timeline": [],
+            "topic": "Area Related to Circles 02 : Sector of a Circle || Rescheduled @06:45 PM",
+            "url": "https://d1d34p8vz63oiq.cloudfront.net/06816f8a-14a1-41e3-b4a3-5e7b20fa7426/master.mpd",
+            "urlType": "penpencilvdo",
+            "ytStreamKey": null,
+            "ytStreamUrl": null,
+            "lectureType": "RECORDED",
+            "whiteboardType": "NOTE3",
+            "videoDetails": {
+                "_id": "67376105934278dfe014b1a9",
+                "id": "67376105934278dfe014b1a9",
+                "name": "Area Related to Circles 02 : Sector and Segment of a Circle || Rescheduled @06:45 PM",
+                "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9d24ab7f-46ef-4178-83db-68b2a800a772.png",
+                "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/06816f8a-14a1-41e3-b4a3-5e7b20fa7426/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>live to vod</p>\n</body>\n</html>",
+                "duration": "01:40:36",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-11-15T14:56:05.802Z",
+                "drmProtected": false,
+                "findKey": "673632e7ca031409c01aa208"
+            },
+            "conversationId": "673632e7add3d51daeb06c70",
+            "roomId": null,
+            "isLocked": false
+        },  {
             "_id": "6730e51385859033247fd611",
             "isFree": false,
             "status": "COMPLETED",
@@ -59,6 +168,73 @@
     ],
     "notes": [
         {
+            "_id": "6738174eb98ed8d90a18d4e1",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-16T00:00:00.000Z",
+            "startTime": "2024-11-16T13:10:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6738b24e9d792ef9766759aa",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Area Related to Circles 03 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6738b24c50cc12d6abc3b858",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/a07ada29-a187-4487-b9b9-375964296d71.pdf",
+                            "name": "Area Related to Circles 03 Class Notes.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f4c050f540018c7706d",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "673632e7ca031409c01aa208",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-11-15T00:00:00.000Z",
+            "startTime": "2024-11-15T13:15:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "67376368180e638e7745dfd6",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Area Related to Circles 02 : Class Notes || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "67376365bce501f3c17aa54c",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/36e750e4-ee65-4889-9396-4c8c898c0e8a.pdf",
+                            "name": "Area Related to Circles 02 Class Notes.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f4c050f540018c7706d",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },{
             "_id": "6730e51385859033247fd611",
             "isFree": false,
             "status": "COMPLETED",
@@ -96,6 +272,73 @@
    
     "DppNotes": [
         {
+            "_id": "673892711ccacbe4d115743c",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-11-16T00:00:00.000Z",
+            "startTime": "2024-11-16T13:10:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "67388e586e0c9dc93566d8db",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Area Related to Circles : DHA 03 || Udaan 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "67388e553ba9c3672cc0c6f2",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/9c62f51b-e3da-4d75-9a2c-8f62bb941d17.pdf",
+                            "name": "Area Related to Circles_DHA 03.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f4c050f540018c7706d",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "673711360558fb0d4118c2ce",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-11-15T00:00:00.000Z",
+            "startTime": "2024-11-15T13:15:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "67370f6aee638d72a6ff15cb",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Area Related to Circles : DHA 02 || Udaan 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "67370f67bce501f3c17a904e",
+                            "baseUrl": "https://static.pw.live/",
+                            "key": "5eb393ee95fab7468a79d189/ADMIN/b5ed6024-5e7c-42d4-992b-3859e64bd724.pdf",
+                            "name": "Area Related to Circles DHA 02.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65fa8f4c050f540018c7706d",
+                    "solutionVideoId": null,
+                    "solutionVideoType": "none",
+                    "solutionVideoUrl": null
+                }
+            ],
+            "dRoomId": "65dd9142eb91f86dba4e787a",
+            "isBatchDoubtEnabled": true
+        },  {
             "_id": "6731cbafbb197347a925e7e7",
             "isFree": false,
             "status": "PENDING",
